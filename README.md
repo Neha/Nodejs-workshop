@@ -1,12 +1,26 @@
 # Nodejs-workshop
 Welcome to the Nodejs codelab. This codelab is divided into 5 parts. Starting from the beginner (understanding Nodejs) to advance (using GraphQL). This is a well balanced codelab between theory and handson.
 
+## Agenda
+Agenda of this workshop to start from the zero knowledge of nodejs to take attendees to in-depth knowledge of the nodejs.
+
+1) nodejs
+2) express generator
+3) get , post, put, delete, update request
+4) API creationg
+5) Microservice
+6) Mongodb
+7) GraphQL
+8) debugging
+9) CORS
+10) testing
+
 # Pre-requists
 - Javascript knowledge. Concepts such as - Promise(), Async-Await, ES6 , Import-export.
 - Knowledge of Programming (HTML, CSS, JS).
-- Have previous experience of building atleast webapps
-- IDE
-- github
+- Should have previous experience of building web apps
+- IDE of your choice.
+- github account
 - Any hosting enviornement
 
 # Agenda
@@ -23,7 +37,7 @@ Welcome to the Nodejs codelab. This codelab is divided into 5 parts. Starting fr
   - What is event loop
   - Why it is important
   - What is single thread
-  - Compramise of single thread
+  - Comprimse of single thread
   - Timers
   
 ### NPM
