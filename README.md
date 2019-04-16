@@ -1,4 +1,4 @@
-# Nodejs-workshop
+# :computer: Nodejs-workshop
 Welcome to the Nodejs codelab. This codelab is divided into 5 parts. Starting from the beginner (understanding Nodejs) to advance (using GraphQL). This is a well balanced codelab between theory and handson.
 
 ## :golf: Agenda
