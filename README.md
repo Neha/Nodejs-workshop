@@ -14,6 +14,11 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 8) debugging
 9) CORS
 10) testing
+11) Middleware
+12) next()
+13) modules - process, child etc.
+14) streame
+15) buffer
 
 # Pre-requists
 - Javascript knowledge. Concepts such as - Promise(), Async-Await, ES6 , Import-export.
