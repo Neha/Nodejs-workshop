@@ -37,12 +37,12 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
   - Where to Use it?
   - Where not to use it?
   - Building blocks of Nodejs
-  - Applications developed in Nodejs
+  - Who is using Nodejs
   - get(), post(), patch(), delete(), put()
   
 ### Event Loop [THEORY]
   - What is event loop
-  - Why it is important
+  - Call stack
   - What is single thread
   - Comparison of single thread vs multi-thread
   - Timers introduction : setInterval vs setTimeOut
