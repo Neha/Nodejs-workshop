@@ -21,7 +21,7 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 15) buffer
 
 # Sessions
-:zero: [Session 0 : All about Nodejs and Server](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
+:zero: [Session 0 : All about Nodejs and Server](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#white_check_mark-session-0-introduction-to-nodejs-theory)
  
 :one: [Session 1 : Express indepth](https://github.com/Neha/Nodejs-workshop/blob/master/README.md)
 
