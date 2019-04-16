@@ -28,9 +28,10 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 - github account
 - Any hosting enviornement
 
-# Agenda
-
 ## Session 0: Introduction to Nodejs [THEORY]
+## Agenda
+Target of this workshop to understand what servers & client-server relationship are and where they fit into the web developers web applications.After that we will understand what nodejs , why it is important , where to use it and how is using it. We will also learn about the building blocks of nodejs - *event-loop* , *single-thread*, *non-blocking input output*, *V8* and *call-stack*. We will touchbase - get(), post(), patch(), delete(), put() and timers too. We will learn about NPM and will setup nodejs, nodeman and create our first server and do the get request. 
+
   - Server side introduction.
   - What is Nodejs? 
   - Why Nodejs?
@@ -38,9 +39,8 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
   - Where not to use it?
   - Building blocks of Nodejs
   - Who is using Nodejs
-  - get(), post(), patch(), delete(), put()
   
-### Event Loop [THEORY]
+ ### Event Loop [THEORY]
   - What is event loop
   - Call stack
   - What is single thread
@@ -62,6 +62,8 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
  
   
 ## Session 1 : Express installation [CODELAB]
+## Agenda
+Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
   
   ### Introduction to Express
   - What is express
@@ -78,6 +80,8 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
   - Congratualtions you have a nodejs based application!!
   
   ## Session 2 : API in nodejs
+  ## Agenda
+Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
   
   ### Introduction to APIs [THEORY]
   - What is API
@@ -105,6 +109,8 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
   
   
   ## Session 4 : Archietecture design of the API (aka services)
+  ## Agenda
+Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
   
   ### Design of the API (aka services)
   - Why design is important
@@ -134,6 +140,8 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
   
   
   ## Sessoin 5 : GraphQL with Nodejs
+  ## Agenda
+Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
   
   ### What is GraphQL
   - What is graphQL
