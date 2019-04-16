@@ -20,6 +20,19 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 14) streame
 15) buffer
 
+# Sessions
+[Session 0 : All about Nodejs and Server](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
+ 
+[Session 1 : Express indepth](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
+
+[Session 2 : Build and design APIs ](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
+
+[Session 3 : Micrsoservices](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
+
+[Session 4 : MongoDB](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
+
+[Session 5 : GraphQL](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
+
 # Pre-requists
 - Javascript knowledge. Concepts such as - Promise(), Async-Await, ES6 , Import-export.
 - Knowledge of Programming (HTML, CSS, JS).
