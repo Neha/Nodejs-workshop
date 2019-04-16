@@ -1,7 +1,7 @@
 # Nodejs-workshop
 Welcome to the Nodejs codelab. This codelab is divided into 5 parts. Starting from the beginner (understanding Nodejs) to advance (using GraphQL). This is a well balanced codelab between theory and handson.
 
-## Agenda
+## :golf: Agenda
 Agenda of this workshop to start from the zero knowledge of nodejs to take attendees to in-depth knowledge of the nodejs.
 
 1) nodejs
@@ -42,7 +42,7 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 - Any hosting enviornement
 
 ## Session 0: Introduction to Nodejs [THEORY]
-## Agenda
+## :golf: Agenda
 Target of this workshop to understand what servers & client-server relationship are and where they fit into the web developers web applications.After that we will understand what nodejs , why it is important , where to use it and how is using it. We will also learn about the building blocks of nodejs - *event-loop* , *single-thread*, *non-blocking input output*, *V8* and *call-stack*. We will touchbase - get(), post(), patch(), delete(), put() and timers too. We will learn about NPM and will setup nodejs, nodeman and create our first server and do the get request. 
 
   - Server side introduction.
@@ -75,7 +75,7 @@ Target of this workshop to understand what servers & client-server relationship 
  
   
 ## Session 1 : Express installation [CODELAB]
-## Agenda
+## :golf: Agenda
 Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
   
   ### Introduction to Express
@@ -93,7 +93,7 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
   - Congratualtions you have a nodejs based application!!
   
   ## Session 2 : API in nodejs
-  ## Agenda
+  ## :golf: Agenda
 Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
   
   ### Introduction to APIs [THEORY]
