@@ -7,7 +7,7 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 1) nodejs
 2) express generator
 3) get , post, put, delete, update request
-4) API creationg
+4) API create
 5) Microservice
 6) Mongodb
 7) GraphQL
@@ -26,21 +26,23 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 # Agenda
 
 ## Session 0: Introduction to Nodejs [THEORY]
+  - Server side introduction.
   - What is Nodejs? 
   - Why Nodejs?
   - Where to Use it?
   - Where not to use it?
   - Building blocks of Nodejs
   - Applications developed in Nodejs
+  - get(), post(), patch(), delete(), put()
   
-### Event Loop
+### Event Loop [THEORY]
   - What is event loop
   - Why it is important
   - What is single thread
-  - Comprimse of single thread
-  - Timers
+  - Comparison of single thread vs multi-thread
+  - Timers introduction : setInterval vs setTimeOut
   
-### NPM
+### NPM [THEORY]
   - What is NPM
   - Why it is important
   - Important commands
@@ -48,15 +50,13 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
   - Make your first package.json
   - What is package.json vs package.lock.json
  
-### What is server and client
+### Setup your workspace
   - Prepare your system - nodejs, nodeman, etc. 
-  - Make your first server
-  - Make your first request
-  - get(), post(), patch(), delete(), put()
-  - routing , cookies, content-type, cors etc
+  - Create your first server - HTTP Module
+  - Create your first request client-server
+ 
   
-  
-  ## Session 1 : Express installation
+## Session 1 : Express installation
   
   ### Introduction to Express
   - What is express
@@ -84,7 +84,8 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
   - Create your first API
   - Refactor the application to get the data from the API
   
-  ### cors()
+  ### cors
+  - Introduction to CORS
   - cors() implementation
   
   ### CRUD operation
@@ -108,14 +109,27 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
   - Microservice introduction
   
   ### Introduction to MongoDB
+  - Introduction to mongodb
+  - Setup your DB
+  - Store first data
+  - Retrieve data
+  - Connecting with application
   
   ### Host your application
+  - Host your application
   
   ### Scalability, Security , testing, and performance in Nodejs application
+  - What is scalability?
+  - Why it is important?
+  - Nodejs and Scalability.
+  - Security issues.
+  - Testing in Nodejs
+  - Performance of nodejs application
   
   
   
   ## Sessoin 5 : GraphQL with Nodejs
+  
   ### What is GraphQL
   - What is graphQL
   - Why it is required
