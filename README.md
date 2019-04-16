@@ -56,7 +56,7 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
   - Create your first request client-server
  
   
-## Session 1 : Express installation
+## Session 1 : Express installation [CODELAB]
   
   ### Introduction to Express
   - What is express
@@ -74,26 +74,26 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
   
   ## Session 2 : API in nodejs
   
-  ### Introduction to APIs
+  ### Introduction to APIs [THEORY]
   - What is API
   - Different type of APIs
   
- ### Create your own API
+ ### Create your own API [CODELAB]
   - Create your own API vs stub data
   - Create the pages from stub data
   - Create your first API
   - Refactor the application to get the data from the API
   
-  ### cors
+  ### cors [THEORY + CODELAB]
   - Introduction to CORS
   - cors() implementation
   
-  ### CRUD operation
+  ### CRUD operation [THEORY]
   - What is CRUD
   - Why it is important
   - When to use which?
   
-  ### CRUD implementation
+  ### CRUD implementation [CODELAB]
   - create your pages for CRUD
   - Mock API for same
   - post(), put(), delete(), update()
