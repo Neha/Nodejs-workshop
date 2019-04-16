@@ -21,17 +21,17 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 15) buffer
 
 # Sessions
-[Session 0 : All about Nodejs and Server](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
+:zero: [Session 0 : All about Nodejs and Server](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
  
-[Session 1 : Express indepth](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
+:one: [Session 1 : Express indepth](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
 
-[Session 2 : Build and design APIs ](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
+:two: [Session 2 : Build and design APIs ](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
 
-[Session 3 : Micrsoservices](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
+:three: [Session 3 : Micrsoservices](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
 
-[Session 4 : MongoDB](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
+:four: [Session 4 : MongoDB](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
 
-[Session 5 : GraphQL](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
+:five: [Session 5 : GraphQL](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#session-0-introduction-to-nodejs-theory)
 
 # Pre-requists
 - Javascript knowledge. Concepts such as - Promise(), Async-Await, ES6 , Import-export.
@@ -41,7 +41,7 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 - github account
 - Any hosting enviornement
 
-## Session 0: Introduction to Nodejs [THEORY]
+## :white_check_mark: Session 0: Introduction to Nodejs [THEORY]
 ## :golf: Agenda
 Target of this workshop to understand what servers & client-server relationship are and where they fit into the web developers web applications.After that we will understand what nodejs , why it is important , where to use it and how is using it. We will also learn about the building blocks of nodejs - *event-loop* , *single-thread*, *non-blocking input output*, *V8* and *call-stack*. We will touchbase - get(), post(), patch(), delete(), put() and timers too. We will learn about NPM and will setup nodejs, nodeman and create our first server and do the get request. 
 
@@ -74,7 +74,7 @@ Target of this workshop to understand what servers & client-server relationship 
   - Create your first request client-server
  
   
-## Session 1 : Express installation [CODELAB]
+## :white_check_mark: Session 1 : Express installation [CODELAB]
 ## :golf: Agenda
 Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
   
@@ -92,7 +92,7 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
   - Do get() request for same
   - Congratualtions you have a nodejs based application!!
   
-  ## Session 2 : API in nodejs
+  ## :white_check_mark: Session 2 : API in nodejs
   ## :golf: Agenda
 Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
   
@@ -121,8 +121,8 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
   - post(), put(), delete(), update()
   
   
-  ## Session 4 : Archietecture design of the API (aka services)
-  ## Agenda
+  ## :white_check_mark: Session 3 : Archietecture design of the API (aka services)
+  ## :golf: Agenda
 Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
   
   ### Design of the API (aka services)
@@ -152,8 +152,8 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
   
   
   
-  ## Sessoin 5 : GraphQL with Nodejs
-  ## Agenda
+  ## :white_check_mark: Session 4 : GraphQL with Nodejs
+  ## :golf: Agenda
 Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
   
   ### What is GraphQL
