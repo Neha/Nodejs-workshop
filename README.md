@@ -26,15 +26,15 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 
 # Sessions
 
-:zero: [Session 0 : All about Nodejs and Server](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#white_check_mark-session-0-introduction-to-nodejs-theory)
+:zero: [Session 0 : All about Nodejs and Server](#white_check_mark-session-0-introduction-to-nodejs-theory)
 
-:one: [Session 1 : Express indepth](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#white_check_mark-session-1--express-installation-codelab)
+:one: [Session 1 : Express indepth](#white_check_mark-session-1--express-installation-theory--codelab)
 
-:two: [Session 2 : Build and design APIs ](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#white_check_mark-session-2--api-in-nodejs)
+:two: [Session 2 : Build and design APIs ](#white_check_mark-session-2--api-in-nodejs)
 
-:three: [Session 3 : Micrsoservices](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#white_check_mark-session-3--archietecture-design-of-the-api-aka-services)
+:three: [Session 3 : Micrsoservices](#white_check_mark-session-3--archietecture-design-of-the-api-aka-services)
 
-:five: [Session 5 : GraphQL](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#white_check_mark-session-1--express-installation-codelab)
+:five: [Session 5 : GraphQL](#white_check_mark-session-4--graphql-with-nodejs)
 
 # Pre-requists
 
