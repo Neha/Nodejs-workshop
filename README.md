@@ -2,6 +2,9 @@
 
 Welcome to the Nodejs codelab. This codelab is divided into 5 parts. Starting from the :zero: understanding of nodejs to advance (using GraphQL). This is a well balanced codelab between theory and handson.
 
+[JSLovers Meetup Group Bangalore](https://www.meetup.com/jschannel-Bengaluru/)
+[JSLovers Meetup Group Delhi](https://www.meetup.com/JSLovers/)
+
 ## :golf: Agenda
 
 Agenda of this workshop to start from the zero knowledge of nodejs to take attendees to in-depth knowledge of the nodejs.
