@@ -4,21 +4,21 @@ Welcome to the Nodejs codelab. This codelab is divided into 5 parts. Starting fr
 ## :golf: Agenda
 Agenda of this workshop to start from the zero knowledge of nodejs to take attendees to in-depth knowledge of the nodejs.
 
-1) nodejs
-2) express generator
-3) get , post, put, delete, update request
-4) API create
-5) Microservice
-6) Mongodb
-7) GraphQL
-8) debugging
-9) CORS
-10) testing
-11) Middleware
-12) next()
-13) modules - process, child etc.
-14) streame
-15) buffer
+1) Understand Nodejs
+2) Understand NPM
+3) Underatand express generator
+3) Learn get , post, put, delete, update request
+4) How to create and work with API create
+5) What is CORS and how to work with it
+6) Middleware
+7) Modules
+8) Streams
+9) Debugging
+10) Microservice
+11) Mongodb
+12) Testing
+13) GraphQL
+
 
 # Sessions
 :zero: [Session 0 : All about Nodejs and Server](https://github.com/Neha/Nodejs-workshop/blob/master/README.md#white_check_mark-session-0-introduction-to-nodejs-theory)
@@ -65,18 +65,24 @@ Target of this workshop to understand what servers & client-server relationship 
   - Why it is important
   - Important commands
   - Yarn vs NPM
-  - Make your first package.json
   - What is package.json vs package.lock.json
  
-### Setup your workspace
-  - Prepare your system - nodejs, nodeman, etc. 
+### Setup your workspace [CODELAB]
+  - Prepare your system - nodejs, nodeman, etc.
+  -  Make your first package.json
   - Create your first server - HTTP Module
   - Create your first request client-server
  
   
-## :white_check_mark: Session 1 : Express installation [CODELAB]
+## :white_check_mark: Session 1 : Express installation [THEORY + CODELAB]
 ## :golf: Agenda
 Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
+
+ ### Topics we will touch:
+ - Middleware
+ - Express
+ - EJS
+ - get() , post() request
   
   ### Introduction to Express
   - What is express
