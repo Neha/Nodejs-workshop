@@ -1,51 +1,48 @@
 # :computer: Nodejs-workshop
 
-Welcome to the Nodejs codelab. This codelab is divided into 5 parts. Starting from the :zero: understanding of nodejs to advance (using GraphQL). This is a well balanced codelab between theory and handson.
+Welcome to the Nodejs codelab. This codelab is divided into 5 parts. Starting from the :zero: understanding of nodejs to advance (using GraphQL). This is a well balanced codelab with theory and hands on.
 
-[JSLovers Meetup Group Bangalore](https://www.meetup.com/jschannel-Bengaluru/)
-[JSLovers Meetup Group Delhi](https://www.meetup.com/JSLovers/)
+- [JSLovers Meetup Group Bangalore](https://www.meetup.com/jschannel-Bengaluru/)
+- [JSLovers Meetup Group Delhi](https://www.meetup.com/JSLovers/)
 
 ## :golf: Agenda
 
 Agenda of this workshop to start from the zero knowledge of nodejs to take attendees to in-depth knowledge of the nodejs.
 
-1. Understand Nodejs
-2. Understand NPM
-3. Underatand express generator
-4. Learn get , post, put, delete, update request
-5. How to create and work with API create
-6. What is CORS and how to work with it
-7. Middleware
-8. Modules
-9. Streams
-10. Debugging
-11. Microservice
-12. Mongodb
-13. Testing
-14. GraphQL
+1. Understand Node.js and NPM
+2. Undestand the underlying concepts and modules like **Streams**, **http**, **Events**
+3. Underatand the most widely used web framework [Express.js](https://expressjs.com/)
+4. How to create and work with APIs, Middlewares, CORS
+5. Debugging
+6. Microservices (both with and without Docker & Docker Compose)
+7. Mongodb
+8. Testing (Unit Testing, Integration Testing & TDD)
+9. GraphQL
+10. Deployment
+11. CI/CD Pipeline, Github hooks, etc
+12. Make your own custom NPM packages
 
-# Sessions
+## Sessions
 
-:zero: [Session 0 : All about Nodejs and Server](#white_check_mark-session-0-introduction-to-nodejs-theory)
+:one: [Session 1: All about Nodejs and Server](#white_check_mark-session-0-introduction-to-nodejs-theory)
 
-:one: [Session 1 : Express indepth](#white_check_mark-session-1--express-installation-theory--codelab)
+:two: [Session 2: Express indepth](#white_check_mark-session-1--express-installation-theory--codelab)
 
-:two: [Session 2 : Build and design APIs ](#white_check_mark-session-2--api-in-nodejs)
+:three: [Session 3: Build and design APIs](#white_check_mark-session-2--api-in-nodejs)
 
-:three: [Session 3 : Micrsoservices](#white_check_mark-session-3--archietecture-design-of-the-api-aka-services)
+:four: [Session 4: Micrsoservices](#white_check_mark-session-3--archietecture-design-of-the-api-aka-services)
 
 :five: [Session 5 : GraphQL](#white_check_mark-session-4--graphql-with-nodejs)
 
-# Pre-requists
+## Pre-requists
 
-- Javascript knowledge. Concepts such as - Promise(), Async-Await, ES6 , Import-export.
-- Knowledge of Programming (HTML, CSS, JS).
+- Javascript knowledge is mandatory. Concepts such as - Promise, Async-Await, ES6 , import-export.
+- Knowledge of Web (HTML, CSS, JS) and version control systems like Git.
 - Should have previous experience of building web apps
 - IDE of your choice.
-- github account
-- Any hosting enviornement
+- Github, AWS, Heroku account
 
-## :white_check_mark: Session 0: Introduction to Nodejs [THEORY]
+## :white_check_mark: Session 1: Introduction to Nodejs [THEORY]
 
 ## :golf: Agenda
 
@@ -77,18 +74,18 @@ Target of this workshop to understand what servers & client-server relationship 
 
 ### Setup your workspace [CODELAB]
 
-- Prepare your system - nodejs, nodeman, etc.
+- Prepare your system - nodejs, nodemon, etc.
 - Make your first package.json
 - Create your first server - HTTP Module
 - Create your first request client-server
 
-## :white_check_mark: Session 1 : Express installation [THEORY + CODELAB]
+## :white_check_mark: Session 2: Express installation [THEORY + CODELAB]
 
 ## :golf: Agenda
 
 Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
 
-### Topics we will touch:
+### Topics
 
 - Middleware
 - Express
@@ -111,7 +108,7 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
 - Do get() request for same
 - Congratualtions you have a nodejs based application!!
 
-## :white_check_mark: Session 2 : API in nodejs
+## :white_check_mark: Session 3: API in nodejs
 
 ## :golf: Agenda
 
@@ -146,7 +143,7 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
 - Mock API for same
 - post(), put(), delete(), update()
 
-## :white_check_mark: Session 3 : Archietecture design of the API (aka services)
+## :white_check_mark: Session 4: Archietecture design of the API (aka services)
 
 ## :golf: Agenda
 
@@ -181,7 +178,7 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
 - Testing in Nodejs
 - Performance of nodejs application
 
-## :white_check_mark: Session 4 : GraphQL with Nodejs
+## :white_check_mark: Session 5: GraphQL with Nodejs
 
 ## :golf: Agenda
 
@@ -194,7 +191,7 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
 - Mutation, Query, resolver
 - GraphQL with Nodejs
 
-### Where?
+### Venue
 
 This workshop is happening at JSLovers, Bangalore. You can check my my profile at linkdin
 and can follow me on twitter/hellonehha.
