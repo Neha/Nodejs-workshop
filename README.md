@@ -36,12 +36,11 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 
 ## Pre-requists
 
-- Javascript knowledge. Concepts such as - Promise(), Async-Await, ES6 , Import-export.
-- Knowledge of Programming (HTML, CSS, JS).
+- Javascript knowledge is mandatory. Concepts such as - Promise, Async-Await, ES6 , import-export.
+- Knowledge of Web (HTML, CSS, JS) and version control systems like Git.
 - Should have previous experience of building web apps
 - IDE of your choice.
-- github account
-- Any hosting enviornement
+- Github, AWS, Heroku account
 
 ## :white_check_mark: Session 1: Introduction to Nodejs [THEORY]
 
@@ -75,7 +74,7 @@ Target of this workshop to understand what servers & client-server relationship 
 
 ### Setup your workspace [CODELAB]
 
-- Prepare your system - nodejs, nodeman, etc.
+- Prepare your system - nodejs, nodemon, etc.
 - Make your first package.json
 - Create your first server - HTTP Module
 - Create your first request client-server
