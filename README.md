@@ -18,21 +18,23 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 7. Mongodb
 8. Testing (Unit Testing, Integration Testing & TDD)
 9. GraphQL
-10. Make your own custom NPM packages
+10. Deployment
+11. CI/CD Pipeline, Github hooks, etc
+12. Make your own custom NPM packages
 
 ## Sessions
 
-:zero: [Session 0 : All about Nodejs and Server](#white_check_mark-session-0-introduction-to-nodejs-theory)
+:one: [Session 0: All about Nodejs and Server](#white_check_mark-session-0-introduction-to-nodejs-theory)
 
-:one: [Session 1 : Express indepth](#white_check_mark-session-1--express-installation-theory--codelab)
+:two: [Session 1: Express indepth](#white_check_mark-session-1--express-installation-theory--codelab)
 
-:two: [Session 2 : Build and design APIs ](#white_check_mark-session-2--api-in-nodejs)
+:three: [Session 2: Build and design APIs](#white_check_mark-session-2--api-in-nodejs)
 
-:three: [Session 3 : Micrsoservices](#white_check_mark-session-3--archietecture-design-of-the-api-aka-services)
+:four: [Session 3: Micrsoservices](#white_check_mark-session-3--archietecture-design-of-the-api-aka-services)
 
 :five: [Session 5 : GraphQL](#white_check_mark-session-4--graphql-with-nodejs)
 
-# Pre-requists
+## Pre-requists
 
 - Javascript knowledge. Concepts such as - Promise(), Async-Await, ES6 , Import-export.
 - Knowledge of Programming (HTML, CSS, JS).
@@ -190,7 +192,7 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
 - Mutation, Query, resolver
 - GraphQL with Nodejs
 
-### Where?
+### Venue
 
 This workshop is happening at JSLovers, Bangalore. You can check my my profile at linkdin
 and can follow me on twitter/hellonehha.
