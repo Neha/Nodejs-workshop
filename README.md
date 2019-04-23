@@ -9,22 +9,18 @@ Welcome to the Nodejs codelab. This codelab is divided into 5 parts. Starting fr
 
 Agenda of this workshop to start from the zero knowledge of nodejs to take attendees to in-depth knowledge of the nodejs.
 
-1. Understand Nodejs
-2. Understand NPM
-3. Underatand express generator
-4. Learn get , post, put, delete, update request
-5. How to create and work with API create
-6. What is CORS and how to work with it
-7. Middleware
-8. Modules
-9. Streams
-10. Debugging
-11. Microservice
-12. Mongodb
-13. Testing
-14. GraphQL
+1. Understand Node.js and NPM
+2. Undestand the underlying concepts and modules like **Streams**, **http**, **Events**
+3. Underatand the most widely used web framework [Express.js](https://expressjs.com/)
+4. How to create and work with APIs, Middlewares, CORS
+5. Debugging
+6. Microservices (both with and without Docker & Docker Compose)
+7. Mongodb
+8. Testing (Unit Testing, Integration Testing & TDD)
+9. GraphQL
+10. Make your own custom NPM packages
 
-# Sessions
+## Sessions
 
 :zero: [Session 0 : All about Nodejs and Server](#white_check_mark-session-0-introduction-to-nodejs-theory)
 
