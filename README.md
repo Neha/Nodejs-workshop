@@ -24,13 +24,13 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 
 ## Sessions
 
-:one: [Session 0: All about Nodejs and Server](#white_check_mark-session-0-introduction-to-nodejs-theory)
+:one: [Session 1: All about Nodejs and Server](#white_check_mark-session-0-introduction-to-nodejs-theory)
 
-:two: [Session 1: Express indepth](#white_check_mark-session-1--express-installation-theory--codelab)
+:two: [Session 2: Express indepth](#white_check_mark-session-1--express-installation-theory--codelab)
 
-:three: [Session 2: Build and design APIs](#white_check_mark-session-2--api-in-nodejs)
+:three: [Session 3: Build and design APIs](#white_check_mark-session-2--api-in-nodejs)
 
-:four: [Session 3: Micrsoservices](#white_check_mark-session-3--archietecture-design-of-the-api-aka-services)
+:four: [Session 4: Micrsoservices](#white_check_mark-session-3--archietecture-design-of-the-api-aka-services)
 
 :five: [Session 5 : GraphQL](#white_check_mark-session-4--graphql-with-nodejs)
 
@@ -43,7 +43,7 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 - github account
 - Any hosting enviornement
 
-## :white_check_mark: Session 0: Introduction to Nodejs [THEORY]
+## :white_check_mark: Session 1: Introduction to Nodejs [THEORY]
 
 ## :golf: Agenda
 
@@ -80,13 +80,13 @@ Target of this workshop to understand what servers & client-server relationship 
 - Create your first server - HTTP Module
 - Create your first request client-server
 
-## :white_check_mark: Session 1 : Express installation [THEORY + CODELAB]
+## :white_check_mark: Session 2: Express installation [THEORY + CODELAB]
 
 ## :golf: Agenda
 
 Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
 
-### Topics we will touch:
+### Topics
 
 - Middleware
 - Express
@@ -109,7 +109,7 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
 - Do get() request for same
 - Congratualtions you have a nodejs based application!!
 
-## :white_check_mark: Session 2 : API in nodejs
+## :white_check_mark: Session 3: API in nodejs
 
 ## :golf: Agenda
 
@@ -144,7 +144,7 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
 - Mock API for same
 - post(), put(), delete(), update()
 
-## :white_check_mark: Session 3 : Archietecture design of the API (aka services)
+## :white_check_mark: Session 4: Archietecture design of the API (aka services)
 
 ## :golf: Agenda
 
@@ -179,7 +179,7 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
 - Testing in Nodejs
 - Performance of nodejs application
 
-## :white_check_mark: Session 4 : GraphQL with Nodejs
+## :white_check_mark: Session 5: GraphQL with Nodejs
 
 ## :golf: Agenda
 
