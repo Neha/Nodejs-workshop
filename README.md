@@ -193,7 +193,7 @@ Now, we know how to create APIs in node.Now we will understand how GraphQL works
 
 ### Venue
 
-This workshop is happening at JSLovers, Bangalore. You can check my profile at linkdin
+This workshop is happening at JSLovers, Bangalore. You can check my profile at linkedin
 and can follow me on twitter/hellonehha.
 
 ### Collabration
