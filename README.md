@@ -46,7 +46,7 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 
 ## :golf: Agenda
 
-Target of this workshop to understand what servers & client-server relationship are and where they fit into the web developers web applications.After that we will understand what nodejs , why it is important , where to use it and how is using it. We will also learn about the building blocks of nodejs - _event-loop_ , _single-thread_, _non-blocking input output_, _V8_ and _call-stack_. We will touchbase - get(), post(), patch(), delete(), put() and timers too. We will learn about NPM and will setup nodejs, nodeman and create our first server and do the get request.
+Target of this workshop to understand what is client-server relationship and where they fit into the web applications.After that we will understand what nodejs , why it is important , where to use it and how is using it. We will also learn about the building blocks of nodejs - _event-loop_ , _single-thread_, _non-blocking input output_, _V8_ and _call-stack_. We will touchbase - get(), post(), patch(), delete(), put() and timers too. We will learn about NPM and will setup nodejs, nodemon and create our first server and do the get request.
 
 - Server side introduction.
 - What is Nodejs?
@@ -112,7 +112,7 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
 
 ## :golf: Agenda
 
-Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
+Now, we know Nodejs, Express and used the http modules. Now, we will use framework - Express to create APIs. We will create APIs in Express. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
 
 ### Introduction to APIs [THEORY]
 
@@ -141,13 +141,13 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
 
 - create your pages for CRUD
 - Mock API for same
-- post(), put(), delete(), update()
+- post(), put(), patch(), delete(), update()
 
 ## :white_check_mark: Session 4: Archietecture design of the API (aka services)
 
 ## :golf: Agenda
 
-Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
+Now, we know Nodejs and used the http modules and Express. Now, we will understand the Design pattern of API.
 
 ### Design of the API (aka services)
 
@@ -182,7 +182,7 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
 
 ## :golf: Agenda
 
-Now, we know Nodejs and used the http modules. Now, we will use framework - Express. We will understand what express and why we should use it. We will also go through the project we will be creating for this workshop. We will refactor the folder and files as per the project.
+Now, we know how to create APIs in node.Now we will understand how GraphQL works with Nodejs .
 
 ### What is GraphQL
 
@@ -193,7 +193,7 @@ Now, we know Nodejs and used the http modules. Now, we will use framework - Expr
 
 ### Venue
 
-This workshop is happening at JSLovers, Bangalore. You can check my my profile at linkdin
+This workshop is happening at JSLovers, Bangalore. You can check my profile at linkedin
 and can follow me on twitter/hellonehha.
 
 ### Collabration
