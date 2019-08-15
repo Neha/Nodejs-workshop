@@ -22,6 +22,12 @@ Agenda of this workshop to start from the zero knowledge of nodejs to take atten
 11. CI/CD Pipeline, Github hooks, etc
 12. Make your own custom NPM packages
 
+## Extra:
+1. env variables
+2. Best Practise around File Creation
+3. When to use streams
+4. How to handle heavy files
+
 ## Sessions
 
 :one: [Session 1: All about Nodejs and Server](#white_check_mark-session-0-introduction-to-nodejs-theory)
