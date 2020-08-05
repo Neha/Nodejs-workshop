@@ -197,6 +197,26 @@ Now, we know how to create APIs in node.Now we will understand how GraphQL works
 - Mutation, Query, resolver
 - GraphQL with Nodejs
 
+## :white_check_mark: Session 6: Deployment and CI/CD
+
+## :golf: Agenda
+
+The last step is to do deployment of the application and creating of the pipelines for the CI and CD
+
+### Serverless
+
+- What is Serverless
+- Concepts of Serverless
+- Move your Nodejs code to serverless
+- Deploy on AWS
+
+### CI and CD
+
+- What is CI and CD
+- Concepts of CI and CD
+- AWS Pipelines
+- Create your pipeline
+
 ### Venue
 
 This workshop is happening at JSLovers, Bangalore. You can check my profile at linkedin
